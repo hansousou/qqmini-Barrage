@@ -1,0 +1,6 @@
+{
+    "devDependencies": {},
+    "dependencies": {
+        "miniprogram-barrage": "^1.0.0"
+    }
+}
