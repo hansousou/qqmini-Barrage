@@ -1,5 +1,5 @@
 {
-	"projectid": "1109806998_%E5%BC%B9%E5%B9%95",
+	"projectid": "xxxxxxxxxxx",
 	"setting": {
 		"urlCheck": false,
 		"es6": true,
@@ -23,7 +23,7 @@
 	"debugOptions": {
 		"hidedInDevtools": []
 	},
-	"qqappid": "1109806998",
+	"qqappid": "xxxxxxxxx",
 	"projectname": "%E5%BC%B9%E5%B9%95",
 	"cloudfunctionRoot": "cloudfunctions/",
 	"scripts": {
